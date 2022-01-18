@@ -1,6 +1,6 @@
 package com.learning.javabuildingblocks;
 
-public class InitializeVariable {
+public class InitializeVariabl {
 
 private static String exampleClassVariable; // Not required to initialize as given default
                                             // value as soon it is declared 
